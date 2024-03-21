@@ -1,7 +1,7 @@
 package Step_definition;
 
 import org.junit.Assert;
-//import org.openqa.selenium.By;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -64,7 +64,7 @@ public class SearchHotel {
 	@Given("I am on Search Hotel Page")
 	public void i_am_on_search_hotel_page() {
 	    // Write code here that turns the phrase above into concrete actions
-	    throw new io.cucumber.java.PendingException();
+	    //throw new io.cucumber.java.PendingException();
 		
 	}
 
@@ -86,7 +86,8 @@ public class SearchHotel {
 	@Then("I can see the hotel")
 	public void i_can_see_the_hotel() {
 	    // Write code here that turns the phrase above into concrete actions
-	    throw new io.cucumber.java.PendingException();
+	    //throw new io.cucumber.java.PendingException();
+             System.out.println("Sriya");
 		
 	}
 	
