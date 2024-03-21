@@ -87,7 +87,7 @@ public class SearchHotel {
 	public void i_can_see_the_hotel() {
 	    // Write code here that turns the phrase above into concrete actions
 	    //throw new io.cucumber.java.PendingException();
-             System.out.println("Sriya");
+           //  System.out.println("Sriya");
 		
 	}
 	
